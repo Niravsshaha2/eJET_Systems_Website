@@ -3,3 +3,4 @@ Sona AI website
 - Used CSS
 - Used Javascript
 - Used bootstrap
+- Used Node.js
